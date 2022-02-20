@@ -5,6 +5,10 @@ def read_customers_file(file):
             customers = line[12:len(line)]
             list1.append(customers)
     return list1
+# This is the beginning of the file system for the survailence system. 
+# In the final product, this will be followed by a string to int list conversion function, 
+# then a functon that changes the numbers in the list into objects using the Restaurant class in the Class.py file, 
+# then a function like the one below will do the precent work using the objects 
 
 
 # this is for the manual option for restaurants in the app
