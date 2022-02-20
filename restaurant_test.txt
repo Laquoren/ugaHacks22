@@ -1,0 +1,4 @@
+Restaurant1 360
+Restaurant2 250
+Restaurant3 30
+Restaurant4 100
