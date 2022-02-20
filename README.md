@@ -1,1 +1,3 @@
-# ugaHacks22
+# ugaHacks22 PocketHost would help narrow down restaurants options for guests by showing them the capacity and available tables for nearby restaurants. If the user is a guest, it allows them to create an account, find a restaurant, watch for available seating, and favorite their frequently visited eateries. If the user is a business, it allows them to create an account, link potential franchise locations, update and save information, and link their tabling systems.
+# The code added in this project is part of the restaurant occupacy survailence part of the app.
+# Other aspects of the app still need to be added to the project. 
